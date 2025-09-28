@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>xffsec Blog</title>
+        <link>https://xffsec.github.io/research</link>
+        <description>xffsec Blog</description>
+        <lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://xffsec.github.io/research/first-blog-post</link>
+            <guid>https://xffsec.github.io/research/first-blog-post</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="h2">h2<a href="https://xffsec.github.io/research/first-blog-post#h2" class="hash-link" aria-label="Direct link to h2" title="Direct link to h2" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="h3">h3<a href="https://xffsec.github.io/research/first-blog-post#h3" class="hash-link" aria-label="Direct link to h3" title="Direct link to h3" translate="no">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="h4">h4<a href="https://xffsec.github.io/research/first-blog-post#h4" class="hash-link" aria-label="Direct link to h4" title="Direct link to h4" translate="no">​</a></h4>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<table><thead><tr><th>Column1</th><th>Column2</th></tr></thead><tbody><tr><td>Item1.1</td><td>Item2.1</td></tr></tbody></table>]]></content:encoded>
+            <category>Hola</category>
+            <category>Hello</category>
+            <category>привет</category>
+        </item>
+    </channel>
+</rss>

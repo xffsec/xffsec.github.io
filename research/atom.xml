@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xffsec.github.io/research</id>
+    <title>xffsec Blog</title>
+    <updated>2025-01-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xffsec.github.io/research"/>
+    <subtitle>xffsec Blog</subtitle>
+    <icon>https://xffsec.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://xffsec.github.io/research/first-blog-post</id>
+        <link href="https://xffsec.github.io/research/first-blog-post"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="h2">h2<a href="https://xffsec.github.io/research/first-blog-post#h2" class="hash-link" aria-label="Direct link to h2" title="Direct link to h2" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="h3">h3<a href="https://xffsec.github.io/research/first-blog-post#h3" class="hash-link" aria-label="Direct link to h3" title="Direct link to h3" translate="no">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="h4">h4<a href="https://xffsec.github.io/research/first-blog-post#h4" class="hash-link" aria-label="Direct link to h4" title="Direct link to h4" translate="no">​</a></h4>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<table><thead><tr><th>Column1</th><th>Column2</th></tr></thead><tbody><tr><td>Item1.1</td><td>Item2.1</td></tr></tbody></table>]]></content>
+        <author>
+            <name>xffsec</name>
+            <uri>https://xffsec.github.io</uri>
+        </author>
+        <category label="Hola" term="Hola"/>
+        <category label="Hello" term="Hello"/>
+        <category label="привет" term="привет"/>
+    </entry>
+</feed>
